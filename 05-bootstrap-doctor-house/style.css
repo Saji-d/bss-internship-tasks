@@ -1,0 +1,50 @@
+body, html {
+    overflow-x: hidden;
+}
+
+
+.services .list-group-item.active {
+    border-radius: 8px !important;
+    background-color: rgba(247, 165, 130, 1);
+    border: none;
+}
+
+nav.blur-filter {
+    backdrop-filter: blur(8px);
+}
+
+.doctors a {
+    color: rgba(247, 165, 130, 1);
+    background-color: white;
+    border-color: 1px solid rgba(247, 165, 130, 1);
+
+    &:hover {
+        background-color: rgba(247, 165, 130, 1);
+        color: white;
+    }
+}
+
+.breadcrumb-item::before {
+    color: white !important;
+}
+
+.one-doctor-details .list-group-item.active {
+    border-radius: 8px !important;
+    background-color: rgba(247, 165, 130, 1);
+    border: none;
+    a {
+        color: white;
+    }    
+}
+
+.disc {
+    list-style-type: disc;
+}
+
+.contact input::placeholder {
+    color: white;
+}
+
+.carousel-control-prev-icon {
+    color: rgba(247, 165, 130, 1) !important;
+}

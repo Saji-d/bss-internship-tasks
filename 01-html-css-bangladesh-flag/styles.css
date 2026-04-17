@@ -1,0 +1,31 @@
+/* Center the flag on screen */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Flag container */
+.flag {
+  width: 600px;
+  height: 300px;
+  background-color: #24800d; 
+ /* position: relative; */
+}
+
+/* Red circle */
+.circle {
+  width: 200px;   
+  height: 200px;
+  background-color: #ff001e;
+  border-radius: 50%;
+
+  position: absolute;
+
+  /* CENTER */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
