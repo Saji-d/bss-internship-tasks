@@ -1,4 +1,4 @@
-# 🚀 BSS Internship Tasks
+# BSS Internship Tasks
 
 This repository contains all tasks completed during my internship at **BSS**, focusing on frontend development using HTML, CSS, and Bootstrap.
 
@@ -6,7 +6,7 @@ The projects demonstrate practical implementation of layouts, styling, responsiv
 
 ---
 
-## 🌐 Live Projects
+## Live Projects
 
 | Project | Live Demo | Source Code |
 |--------|----------|-------------|
@@ -18,7 +18,7 @@ The projects demonstrate practical implementation of layouts, styling, responsiv
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3  
@@ -28,7 +28,7 @@ The projects demonstrate practical implementation of layouts, styling, responsiv
 
 ---
 
-## 🎯 What This Repository Shows
+## What This Repository Shows
 
 - Building structured web pages using semantic HTML  
 - Designing responsive layouts using Flexbox & Grid  
@@ -38,7 +38,7 @@ The projects demonstrate practical implementation of layouts, styling, responsiv
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 All projects are deployed using **Vercel** and are accessible via live links above.
 
