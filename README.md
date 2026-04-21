@@ -1,12 +1,12 @@
 # BSS Internship Tasks
 
-This repository contains all tasks completed during my internship at **BSS**, focusing on frontend development using HTML, CSS, and Bootstrap.
+This repository contains all tasks completed during my internship at **BSS**, focusing on frontend development using HTML, CSS, Bootstrap, and JavaScript.
 
-The projects demonstrate practical implementation of layouts, styling, responsiveness, and UI components.
+The projects demonstrate practical implementation of layouts, styling, responsiveness, UI components, and basic interactivity.
 
 ---
 
-## Live Projects
+## 🌐 Live Projects
 
 | Project | Live Demo | Source Code |
 |--------|----------|-------------|
@@ -15,36 +15,38 @@ The projects demonstrate practical implementation of layouts, styling, responsiv
 | Analog Clock | [Live](https://html-css-analog-clock.vercel.app) | [Code](https://github.com/Saji-d/bss-internship-tasks/tree/main/03-html-css-analog-clock) |
 | Furniture Store Landing | [Live](https://furniture-store-landing.vercel.app) | [Code](https://github.com/Saji-d/bss-internship-tasks/tree/main/04-html-css-furniture-store) |
 | Doctor House | [Live](https://bootstrap-doctor-house.vercel.app) | [Code](https://github.com/Saji-d/bss-internship-tasks/tree/main/05-bootstrap-doctor-house) |
+| JavaScript Loader | [Live](https://javascript-loader.vercel.app) | [Code](https://github.com/Saji-d/bss-internship-tasks/tree/main/06-javascript-loader) |
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5  
 - CSS3  
 - CSS Flexbox  
 - CSS Grid  
 - Bootstrap 5  
+- JavaScript
 
 ---
 
-## What This Repository Shows
+## 🎯 What This Repository Shows
 
 - Building structured web pages using semantic HTML  
 - Designing responsive layouts using Flexbox & Grid  
 - Creating UI components with Bootstrap  
-- Applying real-world design practices  
+- Adding interactivity using JavaScript  
 - Deploying projects using **Vercel**
 
 ---
 
-## Deployment
+## 🚀 Deployment
 
 All projects are deployed using **Vercel** and are accessible via live links above.
 
 ---
 
-# Author
+## 👨‍💻 Author
 
 **Sajidur Rahman Sajid**  
 BSS Trainee Software Engineer (Internship)
